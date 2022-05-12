@@ -1,5 +1,5 @@
 interested in searching new things...
-- 🌱 I’m currently learning bachlors in Information technology at Bahir dar university
+- 🌱 I’m currently learning bachlores of science in computer Information technology at Bahir dar university
 - 💞️ I’m looking to collaborate on cybersecurity and backend development
 - 📫 How to reach me email = > betekbebe@gmail.com  linkedin => https://www.linkedin.com/in/bete-goshme-b0282a229/
 <!---

@@ -7,3 +7,5 @@ bete7512/bete7512 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bete7512&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=bete7512&theme=dark&hide_border=false)<br/>
+

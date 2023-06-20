@@ -8,8 +8,6 @@
 
 - Stars: ![GitHub Stars](https://img.shields.io/github/stars/bete7512?style=social)
 - Followers: ![GitHub Followers](https://img.shields.io/github/followers/bete7512?style=social)
- [![Commit Activity](https://img.shields.io/github/commit-activity/m/bete7512)](https://github.com/bete7512)
-[![GitHub Issues](https://img.shields.io/github/issues/bete7512)](https://github.com/bete7512/issues)
 
 
 

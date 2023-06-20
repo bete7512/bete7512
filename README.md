@@ -1,6 +1,5 @@
 # Hi there, I'm Bete Goshme 👋
 
-## About Me
 
 ...
 

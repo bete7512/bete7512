@@ -1,4 +1,4 @@
-https://github.com/bete7512/static/blob/main/index.html
+[GitHub Pages](https://bete7512.github.io/static/)!
 
 
 ...

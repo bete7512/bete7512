@@ -1,8 +1,8 @@
 # Hi there, I'm Bete Goshme 👋
 
-## Technologies Used
+## About Me
 
-In my coding journey, I have worked with several technologies and programming languages. Here is a list of technologies I have experience with, ranked by proficiency:
+...
 
 ## GitHub Activity
 
@@ -21,11 +21,13 @@ Here are the programming languages I frequently use in my GitHub repositories, a
 
 Here are some of the languages and tools I frequently use, represented by icons:
 
-- JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-- HTML5 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
-- CSS3 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
-- Git ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
-- GitHub ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
-- VS Code ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
+<div style="display: inline-block">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" alt="HTML5">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" alt="CSS3">
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square" alt="Git">
+  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub">
+  <img src="https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square" alt="VS Code">
+</div>
 
 Feel free to explore my repositories and reach out to me if you have any questions or ideas for collaboration. Happy coding! 🚀

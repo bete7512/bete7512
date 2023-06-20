@@ -30,5 +30,3 @@ Here are the programming languages I frequently use in my GitHub repositories, a
   <img src="https://img.shields.io/badge/-AWS_Lambda-FF9900?logo=amazon-aws&logoColor=white&style=flat-square" alt="AWS Lambda">
   <img src="https://img.shields.io/badge/-Hasura-FF00FF?logo=hasura&logoColor=white&style=flat-square" alt="Hasura">
 </div>
-
-Feel free to explore my repositories and reach out to me if you have any questions or ideas for collaboration. Happy coding! 🚀

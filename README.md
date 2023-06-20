@@ -8,8 +8,9 @@
 
 - Stars: ![GitHub Stars](https://img.shields.io/github/stars/bete7512?style=social)
 - Followers: ![GitHub Followers](https://img.shields.io/github/followers/bete7512?style=social)
-- Commit Activity: ![GitHub Contributions](https://img.shields.io/github/commit-activity/m/bete7512)
-- Issues: ![GitHub Issues](https://img.shields.io/github/issues/bete7512)
+-COmmits [![Commit Activity](https://img.shields.io/github/commit-activity/m/bete7512)](https://github.com/bete7512)
+-Contributions [![GitHub Issues](https://img.shields.io/github/issues/bete7512)](https://github.com/bete7512/issues)
+
 
 Here are the programming languages I frequently use in my GitHub repositories, along with their respective rankings based on GitHub's language statistics:
 

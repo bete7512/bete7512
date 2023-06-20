@@ -1,4 +1,4 @@
-[GitHub Pages](https://bete7512.github.io/static/)!
+[![Animated Greeting](https://img.shields.io/badge/animated-greeting-ff69b4?logo=javascript&logoColor=white&style=for-the-badge)](https://bete7512.github.io/static/)
 
 
 ...

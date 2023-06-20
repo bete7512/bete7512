@@ -11,15 +11,11 @@
 - Commit Activity: ![GitHub Contributions](https://img.shields.io/github/commit-activity/m/bete7512)
 - Issues: ![GitHub Issues](https://img.shields.io/github/issues/bete7512)
 
-## Language Rankings
-
 Here are the programming languages I frequently use in my GitHub repositories, along with their respective rankings based on GitHub's language statistics:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bete7512&layout=compact)
 
 ## Languages and Tools
-
-Here are some of the languages and tools I frequently use, represented by icons:
 
 <div style="display: inline-block">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript">

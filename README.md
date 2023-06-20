@@ -1,4 +1,4 @@
-(https://bete7512.github.io/static/) 
+(`https://bete7512.github.io/static/`) 
 
 ...
 

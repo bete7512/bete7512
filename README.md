@@ -1,14 +1,8 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Bete Goshme 👋
 
 ## Technologies Used
 
 In my coding journey, I have worked with several technologies and programming languages. Here is a list of technologies I have experience with, ranked by proficiency:
-
-1. Python
-2. JavaScript
-3. HTML/CSS
-4. Java
-5. C++
 
 ## GitHub Activity
 

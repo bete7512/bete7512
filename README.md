@@ -1,4 +1,56 @@
-# Hi there, I'm Bete Goshme 👋
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      .animated-text {
+        display: inline-block;
+        animation: translateText 5s infinite;
+      }
+
+      @keyframes translateText {
+        0% {
+          transform: translateX(0);
+        }
+        33% {
+          transform: translateX(-100%);
+        }
+        66% {
+          transform: translateX(-200%);
+        }
+        100% {
+          transform: translateX(0);
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div id="greeting" class="animated-text"># Hi there, I'm Bete Goshme 👋</div>
+
+    <script>
+      const greetings = {
+        spanish: "¡Hola, soy Bete Goshme! 👋",
+        french: "Salut, je suis Bete Goshme! 👋",
+        german: "Hallo, ich bin Bete Goshme! 👋",
+      };
+
+      const greetingElement = document.getElementById("greeting");
+
+      function animateGreetings() {
+        let currentIndex = 0;
+        const languages = Object.keys(greetings);
+
+        setInterval(() => {
+          currentIndex = (currentIndex + 1) % languages.length;
+          const currentLanguage = languages[currentIndex];
+          greetingElement.textContent = greetings[currentLanguage];
+        }, 2000);
+      }
+
+      animateGreetings();
+    </script>
+  </body>
+</html>
+
 
 
 ...

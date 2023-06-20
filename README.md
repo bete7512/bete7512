@@ -1,4 +1,43 @@
-(`https://bete7512.github.io/static/`) 
+<div>
+  <style>
+    .animated-text {
+      display: inline-block;
+      animation: translateText 5s infinite;
+    }
+
+    @keyframes translateText {
+      0% {
+        transform: translateX(0);
+      }
+      33% {
+        transform: translateX(-100%);
+      }
+      66% {
+        transform: translateX(-200%);
+      }
+      100% {
+        transform: translateX(0);
+      }
+    }
+  </style>
+
+  <div class="animated-text"># Hi there, I'm Bete Goshme 👋</div>
+
+  <script>
+    setInterval(() => {
+      const greetings = [
+        "# Hi there, I'm Bete Goshme 👋",
+        "¡Hola, soy Bete Goshme! 👋",
+        "Salut, je suis Bete Goshme! 👋",
+        "Hallo, ich bin Bete Goshme! 👋",
+      ];
+
+      const greetingElement = document.querySelector(".animated-text");
+      const randomIndex = Math.floor(Math.random() * greetings.length);
+      greetingElement.textContent = greetings[randomIndex];
+    }, 2000);
+  </script>
+</div>
 
 ...
 

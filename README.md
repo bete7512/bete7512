@@ -1,8 +1,6 @@
-
-
-        # Hi there, I'm Bete Goshme 👋,
-        #¡Hola, soy Bete Goshme! 👋",
-        #Hallo, ich bin Bete Goshme! 👋
+# Hi there, I'm Bete Goshme 👋,
+# ¡Hola, soy Bete Goshme! 👋",
+# Hallo, ich bin Bete Goshme! 👋
 ...
 
 ## GitHub Activity

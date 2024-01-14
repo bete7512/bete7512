@@ -27,6 +27,5 @@ Here are the programming languages I frequently use in my GitHub repositories, a
   <img src="https://img.shields.io/badge/-NGINX-009639?logo=nginx&logoColor=white&style=flat-square" alt="NGINX">
   <img src="https://img.shields.io/badge/-AWS_Amplify-FF9900?logo=amazon-aws&logoColor=white&style=flat-square" alt="AWS Amplify">
   <img src="https://img.shields.io/badge/-AWS_EC2-232F3E?logo=amazon-aws&logoColor=white&style=flat-square" alt="AWS EC2">
-  <img src="https://img.shields.io/badge/-AWS_Lambda-FF9900?logo=amazon-aws&logoColor=white&style=flat-square" alt="AWS Lambda">
   <img src="https://img.shields.io/badge/-Hasura-FF00FF?logo=hasura&logoColor=white&style=flat-square" alt="Hasura">
 </div>

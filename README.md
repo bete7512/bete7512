@@ -1,11 +1,11 @@
 # Hi there, I'm Bete Goshme 👋
 
-Backend Developer with 4+ years of experience building scalable systems — currently focused on distributed microservices, HPC storage infrastructure, and high-throughput data pipelines.
+Backend Developer with 4+ years of experience building scalable systems — currently focused on distributed microservices, Managing Data Across Distributed storage infrastructure, and high-throughput data pipelines.
 
 ```go
 var bete = Developer{
     Role:     "Backend Developer @ Nodeum",
-    Focus:    []string{"Go", "Distributed Systems", "Microservices", "HPC Storage"},
+    Focus:    []string{"Go", "Distributed Systems", "Microservices", "Distributed Storage Management", "DevOps Engineering"},
     Building: "Petabyte-scale storage management systems",
 }
 ```
@@ -54,14 +54,5 @@ var bete = Developer{
 ![GitHub Stars](https://img.shields.io/github/stars/bete7512?style=social)
 ![GitHub Followers](https://img.shields.io/github/followers/bete7512?style=social)
 
----
-
-## 🎓 Education & Certifications
-
-- **BSc. Information Technology** — Bahir Dar University
-- **ALX / Holberton Backend Engineer**
-- **AWS Cloud Practitioner**
-
----
 
 <sub>Open to interesting backend challenges, distributed systems, and infrastructure problems.</sub>

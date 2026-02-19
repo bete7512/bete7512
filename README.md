@@ -49,9 +49,7 @@ var bete = Developer{
 
 ## 📈 GitHub Stats
 
-<div align="left">
- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bete7512&layout=compact&theme=default&cache_seconds=1800)
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bete7512&layout=compact)
 
 ![GitHub Stars](https://img.shields.io/github/stars/bete7512?style=social)
 ![GitHub Followers](https://img.shields.io/github/followers/bete7512?style=social)

@@ -50,7 +50,7 @@ var bete = Developer{
 ## 📈 GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bete7512&layout=compact&theme=default" alt="Top Languages" />
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bete7512&layout=compact&theme=default&cache_seconds=1800)
 </div>
 
 ![GitHub Stars](https://img.shields.io/github/stars/bete7512?style=social)

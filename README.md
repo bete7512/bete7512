@@ -1,31 +1,69 @@
-# Hi there, I'm Bete Goshme 👋,
+# Hi there, I'm Bete Goshme 👋
 
-...
+Backend Developer with 4+ years of experience building scalable systems — currently focused on distributed microservices, HPC storage infrastructure, and high-throughput data pipelines.
 
-## GitHub Activity
+```go
+var bete = Developer{
+    Role:     "Backend Developer @ Nodeum",
+    Focus:    []string{"Go", "Distributed Systems", "Microservices", "HPC Storage"},
+    Building: "Petabyte-scale storage management systems",
+}
+```
 
-- Stars: ![GitHub Stars](https://img.shields.io/github/stars/bete7512?style=social)
-- Followers: ![GitHub Followers](https://img.shields.io/github/followers/bete7512?style=social)
+---
 
+## 🛠 Tech Stack
 
+**Languages & Frameworks**
 
-Here are the programming languages I frequently use in my GitHub repositories, along with their respective rankings based on GitHub's language statistics:
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat-square)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square)
+![gRPC](https://img.shields.io/badge/-gRPC-244c5a?logo=google&logoColor=white&style=flat-square)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bete7512&layout=compact)
+**Databases & Messaging**
 
-## Languages and Tools
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+![NATS](https://img.shields.io/badge/-NATS-27AAE1?logo=natsdotio&logoColor=white&style=flat-square)
+![Hasura](https://img.shields.io/badge/-Hasura-1EB4D4?logo=hasura&logoColor=white&style=flat-square)
 
-<div style="display: inline-block">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" alt="HTML5">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" alt="CSS3">
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square" alt="Git">
-  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub">
-  <img src="https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square" alt="VS Code">
-  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square" alt="Docker">
-  <img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square" alt="GraphQL">
-  <img src="https://img.shields.io/badge/-NGINX-009639?logo=nginx&logoColor=white&style=flat-square" alt="NGINX">
-  <img src="https://img.shields.io/badge/-AWS_Amplify-FF9900?logo=amazon-aws&logoColor=white&style=flat-square" alt="AWS Amplify">
-  <img src="https://img.shields.io/badge/-AWS_EC2-232F3E?logo=amazon-aws&logoColor=white&style=flat-square" alt="AWS EC2">
-  <img src="https://img.shields.io/badge/-Hasura-FF00FF?logo=hasura&logoColor=white&style=flat-square" alt="Hasura">
+**Infrastructure & DevOps**
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
+![NGINX](https://img.shields.io/badge/-NGINX-009639?logo=nginx&logoColor=white&style=flat-square)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white&style=flat-square)
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?logo=digitalocean&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+
+**Architecture & Observability**
+
+![Fluentd](https://img.shields.io/badge/-Fluentd-0E83C8?logo=fluentd&logoColor=white&style=flat-square)
+![Microservices](https://img.shields.io/badge/-Microservices-6DB33F?style=flat-square)
+![CQRS](https://img.shields.io/badge/-CQRS%20%2F%20DDD-764ABC?style=flat-square)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bete7512&layout=compact&theme=default" alt="Top Languages" />
 </div>
+
+![GitHub Stars](https://img.shields.io/github/stars/bete7512?style=social)
+![GitHub Followers](https://img.shields.io/github/followers/bete7512?style=social)
+
+---
+
+## 🎓 Education & Certifications
+
+- **BSc. Information Technology** — Bahir Dar University
+- **ALX / Holberton Backend Engineer**
+- **AWS Cloud Practitioner**
+
+---
+
+<sub>Open to interesting backend challenges, distributed systems, and infrastructure problems.</sub>

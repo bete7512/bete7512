@@ -5,7 +5,7 @@ Backend Developer with 4+ years of experience building scalable systems — curr
 ```go
 var bete = Developer{
     Role:     "Backend Developer @ Nodeum",
-    Focus:    []string{"Go", "Distributed Systems", "Microservices", "Distributed Storage Data Mobility", "DevOps Engineering"},
+    Focus:    []string{"Go", "Distributed Systems", "Microservices", "Data Mobility Across Distributed Storage", "DevOps Engineering"},
     Building: "Data Mobility System Across Distributed storage infrastructure",
 }
 ```
